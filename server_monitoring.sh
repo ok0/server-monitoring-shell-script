@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#author jonghun Yoon(https://github.com/ok0/server-monitoring-shell-script)
+
 _SERVERNAME="API"
 _DIVSTR="\n################################################"
 _NOW=`date +%Y%m%d%H%M`
